@@ -1,0 +1,6 @@
+APIKEY: 
+PROXY: 
+  http: socks5h://localhost:10808
+  https: socks5h://localhost:10808
+
+LLM_MODEL: gpt-3.5-turbo
